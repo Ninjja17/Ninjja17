@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:cba6f7,50:b4befe,100:94e2d5&height=220&section=header&text=Mr.%20Shibani&fontSize=58&fontColor=1e1e2e&fontAlignY=36&desc=Building%20useful%20things%2C%20one%20commit%20at%20a%20time&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="Soft lavender-to-teal wave banner reading Mr. Shibani" />
 
 <a href="https://github.com/Ninjja17">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=B4BEFE&center=true&vCenter=true&width=640&height=48&lines=Developer+%40+Wipro+%C2%B7+Bengaluru%2C+India;Building+enterprise+AI+agent+platforms;TypeScript+%C2%B7+Python+%C2%B7+Java+%C2%B7+Go;Always+curious.+Always+building." alt="Typing animation: Developer at Wipro, building enterprise AI agent platforms" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=B4BEFE&center=true&vCenter=true&width=640&height=48&lines=Developer+%40+Wipro+%C2%B7+Bengaluru%2C+India;Building+enterprise+AI+agent+platforms;Java+%C2%B7+Go+%C2%B7+Python+%C2%B7+AWS;Always+curious.+Always+building." alt="Typing animation: Developer at Wipro, building enterprise AI agent platforms" />
 </a>
 
 <br/>
@@ -26,7 +26,7 @@ const shibani = {
   basedIn:     "Bengaluru, India 📍",
   workingAt:   "Wipro",
   building:    ["SQUARE — enterprise agent engineering platform", "paymentAI", "Ignite"],
-  speaks:      ["TypeScript", "Python", "Java", "Go"],
+  speaks:      ["Java", "Go", "Python", "AWS", "TypeScript"],
   currently:   "turning ideas into software and learning by building",
   motto:       "Always curious. Always building. ✨",
 };
@@ -38,7 +38,7 @@ const shibani = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,py,java,go,fastapi,html,css,git,github,vscode&theme=dark&perline=10" alt="TypeScript, Python, Java, Go, FastAPI, HTML, CSS, Git, GitHub, VS Code" />
+<img src="https://skillicons.dev/icons?i=java,go,py,aws,ts,fastapi,html,css,git,github,vscode&theme=dark&perline=11" alt="Java, Go, Python, AWS, TypeScript, FastAPI, HTML, CSS, Git, GitHub, VS Code" />
 
 </div>
 
