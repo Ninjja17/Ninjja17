@@ -23,7 +23,7 @@
 
 ```typescript
 const shibani = {
-  basedIn:     "Bengaluru, India 🇮🇳",
+  basedIn:     "Bengaluru, India 📍",
   workingAt:   "Wipro",
   building:    ["SQUARE — enterprise agent engineering platform", "paymentAI", "Ignite"],
   speaks:      ["TypeScript", "Python", "Java", "Go"],
