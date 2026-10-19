@@ -4,9 +4,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:312e81,100:06b6d4&height=190&section=header&text=Mr.%20Shibani&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Building%20useful%20things%2C%20one%20commit%20at%20a%20time&descAlignY=61&descSize=16" width="100%" alt="A dark blue and teal wave banner reading Mr. Shibani" />
 
-### Hey, I'm Shibani ðŸ‘‹
+### Hey, I'm Shibani 👋
 
-**Developer from Bengaluru, India** Â· **Wipro**
+**Developer from Bengaluru, India** · **Wipro**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-visit-06b6d4?style=for-the-badge&logo=vercel&logoColor=white)](https://tech-three-pied.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shibani07/)
@@ -18,13 +18,13 @@
 
 ### A little about me
 
-I like turning ideas into software and learning by building. My public work spans web development, Python, Java, and Goâ€”with projects ranging from an enterprise agent engineering platform to smaller experiments.
+I like turning ideas into software and learning by building. My public work spans web development, Python, Java, and Go—with projects ranging from an enterprise agent engineering platform to smaller experiments.
 
 ### Things I've been building
 
 | Project | What it is |
 | --- | --- |
-| [SQUARE](https://github.com/Ninjja17/SQUARE) | An enterprise agent engineering platform Â· **Python** |
+| [SQUARE](https://github.com/Ninjja17/SQUARE) | An enterprise agent engineering platform · **Python** |
 | [paymentAI](https://github.com/Ninjja17/paymentAI) | A TypeScript project |
 | [Ignite](https://github.com/Ninjja17/Ignite) | A TypeScript project |
 | [ARROW](https://github.com/Ninjja17/ARROW) | A Java project |
